@@ -15,8 +15,14 @@ Your first task is to visualize an earthquake dataset. Complete the following st
 2. Import and visualize the data by doing the following:
   * Using Leaflet, create a map that plots all the earthquakes from your dataset based on their longitude and latitude.
       * Your data markers should reflect the magnitude of the earthquake by their size and the depth of the earthquake by color. Earthquakes with higher magnitudes should appear larger, and earthquakes with greater depth should appear darker in color.
-        ![](Images/Map\Image.png) 
-  * Include popups that provide additional information about the earthquake when its associated marker is clicked.
-    ![](Images/Map.png) 
+        ![](Images/Map%20Image.png)
+            
+  * Include popups that provide additional information about the earthquake when its associated marker is clicked.              
+          ![](Images/Popup%20Image%20.png)
+            
   * Create a legend that will provide context for your map data.
-  * Your visualization should look something like the preceding map.
+      
+    ![](Images/Legend%20Image.png)            
+
+
+    
